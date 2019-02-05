@@ -1,0 +1,7 @@
+#<include<studio.h>
+int mian()
+{
+print("welcome to threater");
+
+getch();
+}
