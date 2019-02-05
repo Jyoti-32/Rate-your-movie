@@ -1,8 +1,4 @@
 #<include<studio.h>
-int mian()
-{
-print("welcome to threater");
-string name;
 int mobile;
 printf("enter the customer name:");
 scanf("%s",name);
@@ -10,3 +6,5 @@ printf("enter the customer mobile number:");
 scanf("%d",mobile);
 getch();
 }
+
+
